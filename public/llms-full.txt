@@ -2,13 +2,13 @@
 
 A full-service facility management company based in Munich, offering a comprehensive range of property upkeep solutions. The business handles everything from minor repairs and garden care to thorough indoor and outdoor cleaning, while also acting as a professional intermediary between property management companies (Hausverwaltung) and third-party service providers. The company positions itself as a reliable all-in-one partner for property-related needs, covering inspections, controls, and any additional tasks typical in facility management.
 
-Source: https://j-u-t-a-8cd24f80.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Ihr All-in-One Facility Management in München — J.U.T.A.
 
-URL: https://j-u-t-a-8cd24f80.zappy5.app
+URL: https://example.com
 Description: Suchen Sie einen verlässlichen Partner für Facility Management in München? J.U.T.A. bietet Ihnen alles aus einer Hand: von Reinigung bis Gartenpflege. Jetzt unverbindlich anfragen!
 
 Ihr All-in-One Facility Management in München — J.U.T.A.
@@ -532,7 +532,7 @@ Erstellt mit Zappy
 
 ## Rundum-sorglos-Leistungen für Ihr Objekt — J.U.T.A.
 
-URL: https://j-u-t-a-8cd24f80.zappy5.app/services
+URL: https://example.com/services
 Description: Entdecken Sie unser komplettes Leistungsspektrum: Reparaturen, Reinigung innen &amp; außen, Gartenpflege und mehr. Wir sind Ihr Partner für integrierte Facility Services in München.
 
 Rundum-sorglos-Leistungen für Ihr Objekt — J.U.T.A.
@@ -957,7 +957,7 @@ Erstellt mit Zappy
 
 ## Der Mensch hinter dem Management: Lernen Sie J.U.T.A. kennen — J.U.T.A.
 
-URL: https://j-u-t-a-8cd24f80.zappy5.app/about
+URL: https://example.com/about
 Description: Mehr als nur ein Dienstleister: Erfahren Sie, wie J.U.T.A. als persönlicher Partner zwischen Hausverwaltung und Handwerkern für reibungslose Abläufe an Ihrem Objekt sorgt.
 
 Der Mensch hinter dem Management: Lernen Sie J.U.T.A. kennen — J.U.T.A.
@@ -1351,7 +1351,7 @@ Erstellt mit Zappy
 
 ## Starten Sie jetzt Ihr sorgenfreies Objektmanagement — J.U.T.A.
 
-URL: https://j-u-t-a-8cd24f80.zappy5.app/contact
+URL: https://example.com/contact
 Description: Bereit für ein gepflegtes Objekt ohne Aufwand? Kontaktieren Sie J.U.T.A. für ein persönliches Angebot im Facility Management. Wir kümmern uns um den Rest – garantiert!
 
 Starten Sie jetzt Ihr sorgenfreies Objektmanagement — J.U.T.A.
@@ -1713,7 +1713,7 @@ Erstellt mit Zappy
 
 ## Privacy Policy
 
-URL: https://j-u-t-a-8cd24f80.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -1960,7 +1960,7 @@ Erstellt mit Zappy
 
 ## Accessibility Statement
 
-URL: https://j-u-t-a-8cd24f80.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -2216,7 +2216,7 @@ Erstellt mit Zappy
 
 ## Terms & Conditions
 
-URL: https://j-u-t-a-8cd24f80.zappy5.app/terms
+URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
@@ -2491,7 +2491,7 @@ Erstellt mit Zappy
 
 ## Danke | J.U.T.A.
 
-URL: https://j-u-t-a-8cd24f80.zappy5.app/contact/thank-you
+URL: https://example.com/contact/thank-you
 Description: J.U.T.A. - Danke | J.U.T.A.
 
 Danke | J.U.T.A.

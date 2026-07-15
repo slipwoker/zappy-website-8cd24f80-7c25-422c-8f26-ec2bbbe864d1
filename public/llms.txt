@@ -7,37 +7,37 @@
 ## Pages
 
 ### Startseite
-https://j-u-t-a-8cd24f80.zappy5.app
+https://example.com
 Suchen Sie einen verlässlichen Partner für Facility Management in München? J.U.T.A. bietet Ihnen alles aus einer Hand: von Reinigung bis Gartenpflege. Jetzt unverbindlich anfragen!
 
 ### Leistungen
-https://j-u-t-a-8cd24f80.zappy5.app/services
+https://example.com/services
 Entdecken Sie unser komplettes Leistungsspektrum: Reparaturen, Reinigung innen &amp; außen, Gartenpflege und mehr. Wir sind Ihr Partner für integrierte Facility Services in München.
 
 ### Über uns
-https://j-u-t-a-8cd24f80.zappy5.app/about
+https://example.com/about
 Mehr als nur ein Dienstleister: Erfahren Sie, wie J.U.T.A. als persönlicher Partner zwischen Hausverwaltung und Handwerkern für reibungslose Abläufe an Ihrem Objekt sorgt.
 
 ### Kontakt
-https://j-u-t-a-8cd24f80.zappy5.app/contact
+https://example.com/contact
 Bereit für ein gepflegtes Objekt ohne Aufwand? Kontaktieren Sie J.U.T.A. für ein persönliches Angebot im Facility Management. Wir kümmern uns um den Rest – garantiert!
 
 ### Danke | J.U.T.A.
-https://j-u-t-a-8cd24f80.zappy5.app/contact/thank-you
+https://example.com/contact/thank-you
 J.U.T.A. - Danke | J.U.T.A.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://j-u-t-a-8cd24f80.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://j-u-t-a-8cd24f80.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://j-u-t-a-8cd24f80.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://j-u-t-a-8cd24f80.zappy5.app/contact
-- Endpoint: https://j-u-t-a-8cd24f80.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Facility Management
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://j-u-t-a-8cd24f80.zappy5.app/sitemap.xml
-- Robots: https://j-u-t-a-8cd24f80.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://j-u-t-a-8cd24f80.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
