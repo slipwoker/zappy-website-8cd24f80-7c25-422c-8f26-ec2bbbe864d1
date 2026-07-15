@@ -1,0 +1,83 @@
+# J.U.T.A. — Generative Engine Optimization Map
+
+> A full-service facility management company based in Munich, offering a comprehensive range of property upkeep solutions. The business handles everything from minor repairs and garden care to thorough indoor and outdoor cleaning, while also acting as a professional intermediary between property management companies (Hausverwaltung) and third-party service providers. The company positions itself as a reliable all-in-one partner for property-related needs, covering inspections, controls, and any additional tasks typical in facility management.
+
+---
+
+## Pages
+
+### Startseite
+https://j-u-t-a-8cd24f80.zappy5.app
+Suchen Sie einen verlässlichen Partner für Facility Management in München? J.U.T.A. bietet Ihnen alles aus einer Hand: von Reinigung bis Gartenpflege. Jetzt unverbindlich anfragen!
+
+### Leistungen
+https://j-u-t-a-8cd24f80.zappy5.app/services
+Entdecken Sie unser komplettes Leistungsspektrum: Reparaturen, Reinigung innen &amp; außen, Gartenpflege und mehr. Wir sind Ihr Partner für integrierte Facility Services in München.
+
+### Über uns
+https://j-u-t-a-8cd24f80.zappy5.app/about
+Mehr als nur ein Dienstleister: Erfahren Sie, wie J.U.T.A. als persönlicher Partner zwischen Hausverwaltung und Handwerkern für reibungslose Abläufe an Ihrem Objekt sorgt.
+
+### Kontakt
+https://j-u-t-a-8cd24f80.zappy5.app/contact
+Bereit für ein gepflegtes Objekt ohne Aufwand? Kontaktieren Sie J.U.T.A. für ein persönliches Angebot im Facility Management. Wir kümmern uns um den Rest – garantiert!
+
+### Danke | J.U.T.A.
+https://j-u-t-a-8cd24f80.zappy5.app/contact/thank-you
+J.U.T.A. - Danke | J.U.T.A.
+
+## Legal & Policy
+
+### Privacy Policy
+https://j-u-t-a-8cd24f80.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://j-u-t-a-8cd24f80.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://j-u-t-a-8cd24f80.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://j-u-t-a-8cd24f80.zappy5.app/contact
+- Endpoint: https://j-u-t-a-8cd24f80.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About J.U.T.A.
+A full-service facility management company based in Munich, offering a comprehensive range of property upkeep solutions. The business handles everything from minor repairs and garden care to thorough indoor and outdoor cleaning, while also acting as a professional intermediary between property management companies (Hausverwaltung) and third-party service providers. The company positions itself as a reliable all-in-one partner for property-related needs, covering inspections, controls, and any additional tasks typical in facility management.
+
+## Target Audience
+- Property owners, Hausverwaltung (property management companies), businesses in Munich
+- Property Owners in Munich
+- Munich Hausverwaltung Companies
+- Corporate Facility Managers
+
+## Industry
+Facility Management
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://j-u-t-a-8cd24f80.zappy5.app/sitemap.xml
+- Robots: https://j-u-t-a-8cd24f80.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://j-u-t-a-8cd24f80.zappy5.app/llms-full.txt
